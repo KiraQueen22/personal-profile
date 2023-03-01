@@ -1,0 +1,49 @@
+body {
+    background-color: #443C68;
+  }
+img {
+  width: 10%;
+  height: auto;
+}
+
+hr {
+  border-color: #F2F7A1;
+  border-width: 10px;
+  border-style:dotted none none none;
+  border-style: none;
+  border-top-style: dotted; 
+  width: 10%;
+}
+h1 {
+  color: #B6EADA;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+ 
+}
+h2 {
+  color: #B6EADA;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.contact {
+  color: #B6EADA;
+}
+.intro {
+  color: #E5B8F4;
+  }
+li {
+  color: #E5B8F4;
+}
+
+tr {
+  color: #E5B8F4;
+
+}
+
+#linked:hover {
+    background-color: #574f7a;
+
+
+}
+
+#linked:visited {
+  color: cyan;
+}
